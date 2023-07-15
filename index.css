@@ -71,6 +71,9 @@
         justify-content: center;
         row-gap: 40px;
     }
+    .feature-section {
+        padding: 0px 50px 0px 50px;
+    }
     .feature {
         width: 180px;
         margin-bottom: 20px;
@@ -78,7 +81,7 @@
     }
     .feature img {
         width: 145px;
-        height: 180px;
+        height: 200px;
     }
 }
 
